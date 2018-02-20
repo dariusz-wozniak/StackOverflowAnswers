@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowAnswers", "StackOverflowAnswers\StackOverflowAnswers.csproj", "{996C5FBA-D983-4C5C-9E79-243718342708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestRunner", "NUnitTestRunner\NUnitTestRunner.csproj", "{A2E82913-6FA2-4103-ABD6-9D18DD310211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{996C5FBA-D983-4C5C-9E79-243718342708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996C5FBA-D983-4C5C-9E79-243718342708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996C5FBA-D983-4C5C-9E79-243718342708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E82913-6FA2-4103-ABD6-9D18DD310211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E82913-6FA2-4103-ABD6-9D18DD310211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E82913-6FA2-4103-ABD6-9D18DD310211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E82913-6FA2-4103-ABD6-9D18DD310211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
