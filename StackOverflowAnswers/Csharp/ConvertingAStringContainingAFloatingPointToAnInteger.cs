@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace StackOverflowAnswers.csharp
+namespace StackOverflowAnswers.Csharp
 {
     /// <summary>
     /// https://stackoverflow.com/questions/3395381/c-sharp-converting-a-string-containing-a-floating-point-to-an-integer/3395473#3395473

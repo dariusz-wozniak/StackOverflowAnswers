@@ -49,7 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="csharp\converting-a-string-containing-a-floating-point-to-an-integer.cs" />
+    <Compile Include="Csharp\ConvertingAStringContainingAFloatingPointToAnInteger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
