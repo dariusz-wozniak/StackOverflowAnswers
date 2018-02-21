@@ -16,7 +16,7 @@ namespace NUnitTestRunner
     /// </summary>
     public class Program
     {
-        [Test]
+        [TestCase("")]
         [Explicit]
         public static void Main(string[] args)
         {
